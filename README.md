@@ -10,7 +10,7 @@ XCL works only on unpacked game files you already own. It does not download, dec
 ## Games
 
 | Game | Package (version) | State | What works | Limits |
-|---|---|---|---|---|
+|---|---|---|---|---| 
 | **Minecraft Preview** | `Microsoft.MinecraftBeta` 1.18.3064.0 | ✅ | fully playable | – |
 | **Unicorn Overlord** | `SEGAofAmericaInc.Pa253b0c1Y` 1.0.0.6 | ✅ | fully playable | – |
 | **Fortnite** | `436609B6.FortniteClient` 2.0.1461.7919 | ✅ | works fully, as far as the game allows without its online services | the game itself is online-only (multiplayer servers) |
